@@ -1,0 +1,25 @@
+/*
+Theme Name: Holi Moli 1.0
+Text Domain: portalux
+Version: 1.0
+Description: Holi Moli Beauty Care.
+Author: Irwan Hadiansyah
+Author URI: https://holimoli.id/
+*/
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import './component/btn.scss';
+
+.circle {
+	mix-blend-mode: multiply;
+}
+
+.test {
+	@apply bg-gray-400 p-10 w-full;
+	.test-2 {
+		@apply text-6xl text-red-600;
+	}
+}
