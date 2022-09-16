@@ -12,7 +12,7 @@ mix
 	.browserSync({
 		proxy: process.env.MIX_APP_HOST,
 		host: process.env.MIX_APP_HOST,
-		open: 'external',
+		open: 'local',
 		files: ['./**/*.php', './**/*.css', './**/*.js'],
 	});
 	
