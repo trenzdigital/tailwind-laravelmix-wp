@@ -1,7 +1,7 @@
 
-# Jaja Trans - Wordpress Theme
+# Wordpress Themes
 
-Jaja Trans Wordpress Themes with Tailwind Css and Laravel Mix 
+Wordpress Themes with Tailwind CSS and Laravel Mix 
 
 ## Installation
 
